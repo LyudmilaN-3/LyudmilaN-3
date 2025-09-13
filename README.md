@@ -1,8 +1,8 @@
-# Технологии:
+# 🔹Технологии:
 SQL, Git, Tableau, Bash, PostgreSQL, CI/CD, Docker, DevTools, Jupyter Notebook, Postman, Charles, Apidoc/Swagger, API, Selenium, Android Studio, UI-автотест, API-автотест
-# Языки программирования:
+# 🔹Языки программирования:
 Python (pandas, sklearn, numpy, matplotlib, seaborn, phic, scipy, shap, missingno, nltk)
-# Фреймворки:
+# 🔹Фреймворки:
 Django, pytest, unittest
 # Мои контакты:
 - 📧 lnn3@mail.ru

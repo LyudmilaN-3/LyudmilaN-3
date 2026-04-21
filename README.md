@@ -34,10 +34,8 @@
 <ul>
   <li><a href="https://github.com/LyudmilaN-3/test_design">Тест-дизайн</a> – артефакты техник тест-дизайна</li>
   <li><a href="https://github.com/LyudmilaN-3/Postman_collections">Тестирование API</a> – REST, SOAP, GraphQL, gRPC в Postman</li>
-
-[//]: # (  <li><a href="https://github.com/osukhorukova/sql">MySQL</a> – queries and DB validation scripts</li>)
-
-[//]: # (  <li><a href="https://github.com/osukhorukova/mongodb">MongoDB</a> – NoSQL queries and exercises</li>)
+  <li><a href="https://github.com/LyudmilaN-3/API_test_petstore">API_test_petstore</a> – проект тестирования API с использованием библиотек pytest, requests, allure</li>
+  <li><a href="https://github.com/LyudmilaN-3/Test_login_koshelek">Test_login_koshelek</a> – проект тестирования UI с использованием библиотек pytest, Selenium, allure</li>
 
 [//]: # (  <li><a href="https://github.com/osukhorukova/mobile_testing">Android App Testing</a> – manual test cases and bug reports</li>)
 

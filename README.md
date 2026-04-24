@@ -13,6 +13,7 @@
   <a href="mailto:lnn3@mail.ru"><img src="https://img.icons8.com/color/48/apple-mail.png" width="40" height="40" alt="Mail.ru"/></a>
 </p>
 
+
 ---
 
 # СТЭК
@@ -33,16 +34,9 @@
 <h2>Тестовые артефакты</h2>
 <ul>
   <li><a href="https://github.com/LyudmilaN-3/test_design">Тест-дизайн</a> – артефакты техник тест-дизайна</li>
+  <li><a href="https://github.com/LyudmilaN-3/test_docs">Тестовая документация</a> – на примере сервиса Famiry.ru</li>
   <li><a href="https://github.com/LyudmilaN-3/Postman_collections">Тестирование API</a> – REST, SOAP, GraphQL, gRPC в Postman</li>
   <li><a href="https://github.com/LyudmilaN-3/API_test_petstore">API_test_petstore</a> – проект тестирования API с использованием библиотек pytest, requests, allure</li>
   <li><a href="https://github.com/LyudmilaN-3/Test_login_koshelek">Test_login_koshelek</a> – проект тестирования UI с использованием библиотек pytest, Selenium, allure</li>
-
-[//]: # (  <li><a href="https://github.com/osukhorukova/mobile_testing">Android App Testing</a> – manual test cases and bug reports</li>)
-
-[//]: # (  <li><a href="https://github.com/osukhorukova/charlesproxy">Charles Proxy</a> – mock responses and network inspection</li>)
-
-[//]: # (  <li><a href="https://github.com/osukhorukova/bash">Bash</a> – scripts for QA tasks</li>)
-
-[//]: # (  <li><a href="https://github.com/osukhorukova/git">Git</a> – basic version control commands</li>)
 </ul>
 

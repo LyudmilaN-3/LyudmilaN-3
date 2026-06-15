@@ -37,6 +37,7 @@
   <li><a href="https://github.com/LyudmilaN-3/test_docs">Тестовая документация</a> – на примере сервиса Famiry.ru</li>
   <li><a href="https://github.com/LyudmilaN-3/Postman_collections">Тестирование API</a> – REST, SOAP, GraphQL, gRPC в Postman</li>
   <li><a href="https://github.com/LyudmilaN-3/API_test_petstore">API_test_petstore</a> – проект тестирования API с использованием библиотек pytest, requests, allure</li>
+  <li><a href="https://github.com/LyudmilaN-3/demo-pytest">demo_pytest</a> – проект тестирования UI с использованием библиотек pytest, Selenium, allure</li>
   <li><a href="https://github.com/LyudmilaN-3/Test_login_koshelek">Test_login_koshelek</a> – проект тестирования UI с использованием библиотек pytest, Selenium, allure</li>
 </ul>
 
